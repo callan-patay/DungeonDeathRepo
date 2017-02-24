@@ -1,0 +1,72 @@
+
+//Alphabetical order pl0x
+
+{ 
+ 
+    "Bat": {
+    "health": 40,
+    "damage": 2,
+    "armour": 0,
+	"description": "\"I am a Creature from the \ndarkest depths of your mind!!!\"",
+    "attack": "The bat sinks its fangs in to your noggin",
+	"model": "Bat",
+	"dead": "The bat lies crumpled on the floor",
+	"model_scale": 1.0
+   },
+
+    "Minotaur": {
+    "health": 80,
+    "damage": 15,
+    "armour": 2,
+	"description": "\"Moo\"",
+    "attack": "Moo Moo!",
+	"model": "Minotaur",
+	"dead": "The minotaur morphs into a beefburger",
+	"model_scale": 1.0
+   },
+
+    "Zombie": {
+    "health": 60,
+    "damage": 7,
+    "armour": 0,
+	"description": "\"Pretty slow and janky \n sure does love a good brain or two though!!!\"",
+    "attack": "The zombie swipes at your face",
+	"model": "Zombie",
+	"dead": "The zombie gets tired and goes back home into his cosy little grave",
+	"model_scale": 1.0
+    },
+    
+    
+    "Bird": {
+    "health": 30,
+    "damage": 3,
+    "armour": 0,
+	"description": "\"tweet\"",
+    "attack": "Tweet tweet!",
+	"model": "Bird",
+	"dead": "The bird explodes into a feathery mess",
+	"model_scale": 1.0
+   },
+    
+    "Tree": {
+    "health": 100,
+    "damage": 0,
+    "armour": 2,
+	"description": "\"It is a tree\"",
+    "attack": "The tree rustles in the breeze",
+	"model": "Tree",
+	"dead": "The tree now seems less threatening",
+	"model_scale": 1.0
+   },
+    
+    "Bug": {
+    "health": 1,
+    "damage": 1,
+    "armour": 0,
+	"description": "\"A somewhat threatening bug\"",
+    "attack": "The bug nibbles your foot",
+	"model": "Bug",
+	"dead": "It go splat",
+	"model_scale": 1.0
+   }
+}
